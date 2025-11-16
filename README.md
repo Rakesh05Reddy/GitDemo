@@ -1,2 +1,2 @@
 # GitDemo
-Firs Git Demo 
+Firs Git Demos
